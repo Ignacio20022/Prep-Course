@@ -1,14 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\05-JS-IV\\homework",
-    "\\06-JS-V\\homework",
-    "\\07-JS-VI",
-    "\\07-JS-VI\\homework",
-    "\\07-JS-VI\\homework\\tests",
     "\\08-HTML",
-    "\\08-HTML\\homework"
+    "\\08-HTML\\homework",
+    "\\10-JS-Extra-Homeworks",
+    "\\10-JS-Extra-Homeworks\\homework"
   ],
-  "SelectedNode": "\\07-JS-VI\\homework\\homework.js",
+  "SelectedNode": "\\08-HTML\\homework\\homework.html",
   "PreviewInSolutionExplorer": false
 }
